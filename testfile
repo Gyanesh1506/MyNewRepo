@@ -1,2 +1,6 @@
 this is my first commit
+<<<<<<< HEAD
 test
+=======
+this is my second commit
+>>>>>>> 66201d1f76ca6fdba16d8b13d60cb7d1f6849c6b
